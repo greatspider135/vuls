@@ -12,7 +12,7 @@ require (
 	github.com/aquasecurity/trivy v0.27.1
 	github.com/aquasecurity/trivy-db v0.0.0-20220327074450-74195d9604b2
 	github.com/asaskevich/govalidator v0.0.0-20210307081110-f21760c49a8d
-	github.com/aws/aws-sdk-go v1.43.31
+	github.com/aws/aws-sdk-go v1.44.136
 	github.com/boltdb/bolt v1.3.1
 	github.com/briandowns/spinner v1.18.1 // indirect
 	github.com/cenkalti/backoff v2.2.1+incompatible
@@ -48,7 +48,7 @@ require (
 	github.com/vulsio/gost v0.4.1
 	github.com/vulsio/goval-dictionary v0.7.3
 	golang.org/x/oauth2 v0.0.0-20220411215720-9780585627b5
-	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
+	golang.org/x/sync v0.0.0-20220722155255-886fb9371eb4
 	golang.org/x/xerrors v0.0.0-20220411194840-2f41105eb62f
 	gopkg.in/ini.v1 v1.66.4 // indirect
 	gorm.io/driver/mysql v1.3.3 // indirect
@@ -149,11 +149,11 @@ require (
 	go.uber.org/zap v1.21.0 // indirect
 	golang.org/x/crypto v0.0.0-20220411220226-7b82a4e95df4 // indirect
 	golang.org/x/exp v0.0.0-20220407100705-7b9b53b0aca4 // indirect
-	golang.org/x/mod v0.6.0-dev.0.20211013180041-c96bc1413d57 // indirect
-	golang.org/x/net v0.0.0-20220425223048-2871e0cb64e4 // indirect
-	golang.org/x/sys v0.0.0-20220422013727-9388b58f7150 // indirect
-	golang.org/x/term v0.0.0-20210927222741-03fcf44c2211 // indirect
-	golang.org/x/text v0.3.7 // indirect
+	golang.org/x/mod v0.6.0-dev.0.20220419223038-86c51ed26bb4 // indirect
+	golang.org/x/net v0.1.0 // indirect
+	golang.org/x/sys v0.1.0 // indirect
+	golang.org/x/term v0.1.0 // indirect
+	golang.org/x/text v0.4.0 // indirect
 	google.golang.org/api v0.74.0 // indirect
 	google.golang.org/appengine v1.6.7 // indirect
 	google.golang.org/genproto v0.0.0-20220407144326-9054f6ed7bac // indirect
